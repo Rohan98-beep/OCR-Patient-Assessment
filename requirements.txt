@@ -1,0 +1,5 @@
+opencv-python
+numpy
+easyocr
+pytesseract
+sqlite3
