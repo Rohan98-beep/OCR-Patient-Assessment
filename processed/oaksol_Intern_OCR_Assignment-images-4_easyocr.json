@@ -1,0 +1,14 @@
+{
+    "patient_name": "Unknown",
+    "dob": "Unknown",
+    "date": "Unknown",
+    "injection": "No",
+    "exercise_therapy": "No",
+    "pain_symptoms": {
+        "pain": 0,
+        "numbness": 0,
+        "tingling": 0,
+        "burning": 0,
+        "tightness": 0
+    }
+}
